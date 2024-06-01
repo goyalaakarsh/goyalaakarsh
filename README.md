@@ -18,7 +18,6 @@
   <img src="https://user-images.githubusercontent.com/55564866/129572054-2d4a217e-07d7-4dd1-80e7-4b5d3ed4b981.gif" alt="Coding" width="400" />
 </p>
 
-<h2 align="center"> 🐍 Contribution Snake</h2>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
@@ -63,6 +62,21 @@
 ![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?&style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+### Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=%23FFFFFF)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=%23FFFFFF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23005C8E.svg?&style=for-the-badge&logo=matplotlib&logoColor=%23FFFFFF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Packages
+
+![Multer](https://img.shields.io/badge/Multer-%230C1014.svg?&style=for-the-badge&logo=multer&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-%233D4F75.svg?&style=for-the-badge&logo=passport&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-%23337AB7.svg?&style=for-the-badge&logo=nodemailer&logoColor=white)
+![Tilt.js](https://img.shields.io/badge/Tilt.js-%23FB3D57.svg?&style=for-the-badge&logo=tilt.js&logoColor=white)
+
 
 ## 📧 Connect with Me
 
