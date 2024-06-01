@@ -74,17 +74,6 @@
   <a href="https://discordapp.com/users/aakarshgoyal/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goyalaakarsh&theme=darkhub" alt="GitHub Trophies" />
-</p>
-
-## 💬 Quote for you
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
-</p>
 
 ## 🌐 Portfolio
 
@@ -100,6 +89,18 @@
   <a href="https://leetcode.com/goyalaakarsh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=goyalaakarsh&theme=darkhub" alt="GitHub Trophies" />
+</p>
+
+## 💬 Quote for you
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
 </p>
 
 ## 
