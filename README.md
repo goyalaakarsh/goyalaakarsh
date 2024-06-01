@@ -80,7 +80,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=goyalaakarsh&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
-## 💬 Quote of the Day
+## 💬 Quote for you
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
