@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" alt="Programming GIF" style="width: 60%; max-width: 400px;">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" alt="Programming GIF" style="width: 40%; max-width: 400px;">
 </p>
 
 <h1 align="center">Hi 👋, I'm Aakarsh Goyal</h1>
