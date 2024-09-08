@@ -115,16 +115,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=goyalaakarsh&theme=darkhub" alt="GitHub Trophies" />
 </p>
 
-## 💬 Quote for you
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
-</p>
-
-## 
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love">
-  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee">
 </p>
