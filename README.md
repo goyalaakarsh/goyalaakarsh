@@ -9,13 +9,11 @@
   <a href="https://www.linkedin.com/in/goyalaakarsh/"><img src="https://img.shields.io/badge/LinkedIn-goyalaakarsh-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
----
 
 ## About Me
 
 I'm a passionate software developer with a strong focus on crafting scalable, efficient, and user-centric solutions. With a solid foundation in modern technologies and a curiosity for emerging trends, I thrive on solving complex problems and delivering impactful software.
 
----
 
 ## 🛠️ Skills & Expertise
 
@@ -62,16 +60,17 @@ I'm a passionate software developer with a strong focus on crafting scalable, ef
         <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
       </p>
     </td>
-    <td valign="top" width="50%">
-      <h3 align="center">Relevant Coursework</h3>
-      <p align="center" style="font-size: 14px;">
-        Software Engineering • System Design • Database Management Systems
-      </p>
-    </td>
+<td valign="top" width="50%">
+  <h3 align="center">Relevant Coursework</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Software%20Engineering-2C3E50?style=flat-square&logo=codeigniter&logoColor=white" alt="Software Engineering" />
+    <img src="https://img.shields.io/badge/System%20Design-34495E?style=flat-square&logo=serversfault&logoColor=white" alt="System Design" />
+    <img src="https://img.shields.io/badge/Database%20Management-16A085?style=flat-square&logo=databricks&logoColor=white" alt="Database Management Systems" />
+  </p>
+</td>
   </tr>
 </table>
 
----
 
 ## 📈 GitHub Stats
 
@@ -80,7 +79,6 @@ I'm a passionate software developer with a strong focus on crafting scalable, ef
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalaakarsh&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" />
 </p>
 
----
 
 ## 📫 Get in Touch
 
