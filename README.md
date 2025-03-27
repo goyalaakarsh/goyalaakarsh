@@ -2,34 +2,18 @@
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*wNGxHlTCsH9zU90WDouoDQ.gif" alt="Programming GIF" style="width: 40%; max-width: 400px;">
 </p>
 
-<h1 align="center">Hi 👋, I'm Aakarsh Goyal</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi! I'm Aakarsh Goyal.</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=goyalaakarsh&label=Profile%20views&color=0e75b6&style=flat" alt="goyalaakarsh" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/goyalaakarsh?tab=followers">
-    <img src="https://img.shields.io/github/followers/goyalaakarsh?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/goyalaakarsh">
-    <img src="https://img.shields.io/github/stars/goyalaakarsh?label=Stars&style=social" alt="GitHub stars" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/55564866/129572054-2d4a217e-07d7-4dd1-80e7-4b5d3ed4b981.gif" alt="Coding" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 <h2 align="center"> 📈 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goyalaakarsh&theme=dark" alt="GitHub Streak Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goyalaakarsh&show_icons=true&theme=dark" alt="GitHub Profile Stats" />
 </p>
@@ -90,31 +74,7 @@
   <a href="https://www.instagram.com/aakarshgoyall/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/goyalaakarsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://discordapp.com/users/aakarshgoyal/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</p>
-
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://aakarshgoyal.vercel.app/" target="_blank">
+    <a href="https://aakarshgoyal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-</p>
-
-## 📝 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/goyalaakarsh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=goyalaakarsh&theme=darkhub" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quotes" />
 </p>
