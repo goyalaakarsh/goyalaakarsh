@@ -1,5 +1,5 @@
 <h1 align="center">Aakarsh Goyal</h1>
-<h3 align="center">Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Software Developer | Problem Solver | Student</h3>
 
 <p align="center">
   <a href="mailto:aakarshgoyal23@gmail.com"><img src="https://img.shields.io/badge/Email-aakarshgoyal23%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -65,22 +65,13 @@ Passionate software developer with a keen interest in building scalable applicat
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/goyalaakarsh/project-name">
+  <a href="https://github.com/goyalaakarsh/synccity">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalaakarsh&repo=project-name&theme=tokyonight" />
   </a>
-  <a href="https://github.com/goyalaakarsh/another-project">
+  <a href="https://github.com/goyalaakarsh/resulens">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalaakarsh&repo=another-project&theme=tokyonight" />
   </a>
 </div>
-
-## 🔍 Current Focus
-
-I'm currently enhancing my skills in:
-
-- Full-stack web application development
-- Cloud infrastructure and DevOps practices
-- Machine learning and data analysis
-- Mobile application development
 
 ## 📫 Connect With Me
 
