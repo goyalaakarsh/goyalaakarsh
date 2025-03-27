@@ -62,17 +62,6 @@ Passionate software developer with a keen interest in building scalable applicat
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goyalaakarsh&layout=compact&theme=tokyonight" />
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/goyalaakarsh/synccity">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalaakarsh&repo=project-name&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/goyalaakarsh/resulens">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goyalaakarsh&repo=another-project&theme=tokyonight" />
-  </a>
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
