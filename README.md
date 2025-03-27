@@ -64,7 +64,7 @@ I'm a passionate software developer with a strong focus on crafting scalable, ef
   <h3 align="center">Relevant Coursework</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Software%20Engineering-2C3E50?style=flat-square&logo=codeigniter&logoColor=white" alt="Software Engineering" />
-    <img src="https://img.shields.io/badge/System%20Design-34495E?style=flat-square&logo=amazonaws&logoColor=white" alt="System Design" />
+    <img src="https://img.shields.io/badge/System%20Design-34495E?style=flat-square&logo=docker&logoColor=white" alt="System Design" />
     <img src="https://img.shields.io/badge/Database%20Management-16A085?style=flat-square&logo=databricks&logoColor=white" alt="Database Management Systems" />
   </p>
 </td>
