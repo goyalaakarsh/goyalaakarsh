@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Aakarsh Goyal</h1>
-<h3 align="center">Software Developer | Problem Solver | Innovator</h3>
+<h3 align="center">Software Developer | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:aakarshgoyal23@gmail.com"><img src="https://img.shields.io/badge/Email-aakarshgoyal23@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"></a>
