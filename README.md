@@ -30,6 +30,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyalaakarsh&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goyalaakarsh&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 
